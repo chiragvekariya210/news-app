@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+}
+
+.card-block{
+  background-color: 'ghostwhite';
+}
+
+.loader{
+width: 100px;
+}
